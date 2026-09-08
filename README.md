@@ -1,6 +1,6 @@
 # Hi 👋, I'm Atul Kumar Chourasia
 
-### 🚀 Full Stack Developer | BCA Student | Problem Solver
+### 🚀 Full Stack Web Developer | BCA Student | Problem Solver
 
 I'm a BCA student and aspiring Full Stack Developer passionate about building practical, scalable, and user-friendly web applications.
 
