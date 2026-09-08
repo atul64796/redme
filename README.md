@@ -16,7 +16,6 @@ I enjoy working on both **frontend and backend development**, solving **DSA prob
 - 🧠 Practicing **Data Structures & Algorithms using Java**
 - 🚀 Building an **AI-powered Placement Preparation Platform**
 - 🔥 Interested in **Web Development, Backend Development & AI**
-- 📚 Continuously learning and improving my problem-solving skills
 
 ---
 
