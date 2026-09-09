@@ -18,7 +18,7 @@ I enjoy working on both **frontend and backend development**, solving **DSA prob
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Hello Tech Stack
 
 ### Frontend
 - HTML
