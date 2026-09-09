@@ -15,7 +15,6 @@ I enjoy working on both **frontend and backend development**, solving **DSA prob
 - 🌱 Currently improving my skills in **PERN Stack, TypeScript, PostgreSQL & AI Integration**
 - 🧠 Practicing **Data Structures & Algorithms using Java**
 - 🚀 Building an **AI-powered Placement Preparation Platform**
-- 🔥 Interested in **Web Development, Backend Development & AI**
 
 ---
 
