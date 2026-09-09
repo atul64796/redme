@@ -26,7 +26,6 @@ I enjoy working on both **frontend and backend development**, solving **DSA prob
 - JavaScript
 - React.js
 - Tailwind CSS
-- Vite
 
 ### Backend
 - Node.js
